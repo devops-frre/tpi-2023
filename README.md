@@ -3,7 +3,7 @@
 ## Como empezar
 
 - Formar grupo de 4 personas como máximo
-- Todos los integrantes deben aceptar la [invitación](https://classroom.github.com/a/7c9L8mfI) a la actividad
+- Todos los integrantes deben aceptar la [invitación](https://classroom.github.com/a/K6ikGyU9) a la actividad
 - Formar el equipo o unirse al grupo correspondientes a través de la invitación
 
 ## Actividad
@@ -45,7 +45,7 @@
 	- Scripts de base de datos
 - No se tendrán en cuenta commits hechos fuera de termino
 - Zippear el repositorio y subirlo al campus virtual [en la actividad correspondiente](https://frre.cvg.utn.edu.ar/mod/assign/view.php?id=52802)
-- Se van a permitir entregas hasta el jueves 24 de noviembre.
+- Se van a permitir entregas hasta el jueves 1 de diciembre.
 
 ## Presentación
 

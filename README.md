@@ -68,7 +68,7 @@ Durante la exposición deberán tener preparado:
 Consideraciones:
 
 - La exposición no deberá durar mas de 45 minutos
-- La exposición se realizará el lunes 29 de noviembre, a cada grupo se le asignara un horario determinado
+- La exposición se realizará el viernes 2 de diciembre, a cada grupo se le asignara un horario determinado
 
 ## Criterios de Evaluación
 

@@ -1,9 +1,9 @@
-# Trabajo Práctico Integrador 2022 - Devops - UTN FRRe
+# Trabajo Práctico Integrador 2023 - Devops - UTN FRRe
 
 ## Como empezar
 
-- Formar grupo de 4 personas como máximo
-- Todos los integrantes deben aceptar la [invitación](https://classroom.github.com/a/K6ikGyU9) a la actividad
+- Formar grupo de 5 personas como máximo
+- Todos los integrantes deben aceptar la [invitación](https://classroom.github.com/a/9XFwmqjN) a la actividad
 - Formar el equipo o unirse al grupo correspondientes a través de la invitación
 
 ## Actividad
@@ -45,7 +45,7 @@
 	- Scripts de base de datos
 - No se tendrán en cuenta commits hechos fuera de termino
 - Zippear el repositorio y subirlo al campus virtual [en la actividad correspondiente](https://frre.cvg.utn.edu.ar/mod/assign/view.php?id=52802)
-- Se van a permitir entregas hasta el jueves 1 de diciembre.
+- Se van a permitir entregas hasta el lunes 27 de noviembre.
 
 ## Presentación
 
@@ -68,7 +68,7 @@ Durante la exposición deberán tener preparado:
 Consideraciones:
 
 - La exposición no deberá durar mas de 45 minutos
-- La exposición se realizará el viernes 2 de diciembre, a cada grupo se le asignara un horario determinado
+- La exposición se realizará el lunes 27 de diciembre, a cada grupo se le asignara un horario determinado
 
 ## Criterios de Evaluación
 
@@ -83,5 +83,5 @@ Consideraciones:
 
 ## Consultas
 
-- La clase del 28 de noviembre será exclusiva de consultas sobre el TPI
-- Se podrán hacer consultas en el ["Foro Consultas Trabajo Practico Integrador"](https://frre.cvg.utn.edu.ar/mod/forum/view.php?id=68852) en el campus virtual creado para este proposito
+- Las clases del 18 y 25 de noviembre seran exclusivas de consultas sobre el TPI
+

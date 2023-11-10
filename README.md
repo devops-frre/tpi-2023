@@ -3,7 +3,7 @@
 ## Como empezar
 
 - Formar grupo de 5 personas como máximo
-- Todos los integrantes deben aceptar la [invitación](https://classroom.github.com/a/9XFwmqjN) a la actividad
+- Todos los integrantes deben aceptar la [invitación](https://classroom.github.com/a/JRkHBZAw) a la actividad
 - Formar el equipo o unirse al grupo correspondientes a través de la invitación
 
 ## Actividad

@@ -15,7 +15,6 @@
 - La aplicación debe estar containerizada y administrada por un orquestador de containers
 - El aprovisionamiento de la aplicación y de la base de datos debe hacerse de forma automática a partir de un Pipeline CI/CD
 - La carga de datos en la base se puede hacer de forma manual o por algun otro medio no automático
-- Se debe preveer la existencia de por lo menos dos entornos (desarrollo, produccion por ej)
 - Se debe preveer la capacidad del despliegue de nuevas versiones en los distintos entornos de forma automática a partir de un Pipeline CI/CD
 - Se debe preveer la capacidad de despliegue de cambios de esquemas en las bases de datos de forma automática a partir de un Pipeline CI/CD, los mismos deben ser manejado por el mismo pipeline que implementa los cambios de aplicación
 - No se prevee que la aplicación tenga interfaz gráfica (HTML+CSS), con solo responder requests HTTP es suficiente
